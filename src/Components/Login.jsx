@@ -149,7 +149,7 @@ const Login = ({ toggleLoginModel, toggleRegisterModel, openLoginModal }) => {
                 />
               </div>
               <div>
-                <Button className="w-full" onClick={submitForm}>
+                <Button className="w-full" onClick={submitForm} color="blue">
                   LOGIN
                 </Button>
               </div>

@@ -12,7 +12,7 @@
   "dependencies": {
     "dotenv": "^16.3.1",
     "downshift": "^8.3.1",
-    "flowbite-react": "^0.7.2",
+    "flowbite-react": "^0.7.8",
     "primereact": "^10.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
